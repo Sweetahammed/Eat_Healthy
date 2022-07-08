@@ -1,0 +1,115 @@
+h2{
+  font-size: 50px;
+  font-weight: 700px;
+}
+.orange-color{
+  color: orange;
+}
+.paragraph-size{
+  font-size: 25px;
+}
+.top-link{
+  text-decoration: none;
+  background-image: linear-gradient(orange,red);
+  padding: 15px 25px;
+  border-radius: 25px;
+  color: antiquewhite;
+}
+.top-area {
+  display: flex;
+}
+.about-area{
+  display: flex;
+}
+.half-width{
+  width: 50%;
+  padding-left: 5%;
+  margin-top: 10%;
+}
+.half-width img{
+  width: 100%;
+}
+.about-area{
+  background-image: url(Frame-57.jpg);
+}
+.full-img img{
+  width: 70%;
+  padding-left: 20%;
+}
+.text-overlay{
+  width: 50%;
+  padding-left: 10%;
+  padding-right: 5%;
+}
+.area-link{
+  text-decoration: none;
+  background-image: linear-gradient(orange,red);
+  border-radius: 25px;
+  color: antiquewhite;
+  padding: 10px 20px;
+  margin-top: 40px;
+}
+.text-overlay p{
+  padding-bottom:30%;
+}
+h3{
+  font-size: 30px;
+}
+.light-color{
+  color: lightseagreen;
+  text-align: center;
+  padding-bottom: 5%;
+}
+
+.Recipie-Title{
+  display: flex;
+  padding-left: 5%;
+  margin-left: 5%;
+  padding-right: 5%;
+}
+.images-one img{
+  width: 80%;
+  padding:10% 10%;
+  border-radius: 15%;
+}
+.images-one{
+  box-shadow: 5px 5px 10px gray;
+  margin-right: 5%;
+  border-radius: 5%;
+}
+
+.images-tow img{
+  width: 80%;
+  padding:10% 10%;
+  border-radius: 15%;
+}
+.images-tow{
+  box-shadow: 5px 5px 10px gray;
+  margin-right: 5%;
+  border-radius: 5%;
+}
+.text{
+  padding-left: 5%;
+}
+.box-text{
+  display:flex;
+  padding: 2px 33px;
+  margin: 5% 10%;
+  border-radius: 15px;
+  box-shadow: 5px 5px 10px grey;
+}
+h4{
+  font-size: 30px;
+}
+.distance{
+  padding-left: 15%;
+  text-align: center;
+}
+
+.footer{
+  background-color: black;
+  text-align: center;
+  color: olivedrab;
+  padding: 5px 0px;
+  margin: 0%;
+}
